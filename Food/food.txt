@@ -1,0 +1,47 @@
+Cinnamon Toast Crunch,General Mills,3.64,25
+Vitamin D Milk,Great Value,2.98,26
+Apple 100% Juice, Juicy Juice,3.87,14
+Artesano Style Bread,Sara Lee,2.50,12
+Sundae Ice Cream,Blue Bell,6.47,23
+Whole Natural Almonds,Blue Diamond,6.98,42
+Dark Sweet Cherries,Dole,3.98,36
+2% Reduced Fat Milk,Borden,3.28,17
+Classic Chicken Noodle Soup,Campbell's Chucky,2.28,74
+Chicken Wings,Sanderson Farms Fresh,11.35,90
+Mixed Nuts,Planters,4.98,36
+All Natural Blueberries,Dole,3.76,28
+Whole Milk,Borden,4.65,40
+Fig Newtons,Nabisco,2.98,45
+Whole Natural Almonds,Sunshine Country,4.98,0
+Homemade Vanilla ice Cream,Blue Bell Gold Rim,5.88,26
+Soft Taco Flour Tortillas, Mission,2.14,56
+King Thin Bread,Sunbeam,1.98,19
+Smokehouse Almonds,blue Diamond,11.68,25
+Traditional Chicken Noodle Soup,Progresso,1.88,51
+Angus Choice New York Thin Strip tray,Tyson,15.36,21
+Valley Fresh Steamers Broccoli Florets,Green Giant,1.98,74
+Condensed Tomato Soup,Campbell's,1.25,65
+Lightly Salted Almonds,Blue Diamond,11.68,95
+Pub-Style Chicken Pot Pie Soup,Campbell's,2.28,32
+Extra Large Ribeye Steak,Choice,30.78,22
+Spicy Chicken Quesadilla Soup,Campbell's Chunky,2.28,63
+Phish food Ice Cream,Ben & Jerry's,4.28,0
+Short Ears Cob Corn,PictSweet,3.76,27
+Corn-On-The-Cob Nibblers,Green Giant,7.47,64
+Pulp Free Orange Juice,Simply Orange,4.98,0
+Gras Fed Beef Tenderloin Filet Mignon Steak,Marketside,26.21,18
+Steamfresh Broccoli Cuts,Birds Eye,1.00,19
+Froot Loops,kellogg's,3.98,12
+Beef Burrito Soup,Campbell's Chunky,2.28,0
+1% Lowfat Milk,Borden,4.58,0
+New England Clam Chowder,Campbell's Chunky,2.28,71
+Rocky Road Ice Cream,Blue Bell Brown Rim,5.88,13
+Swirl Thick Slice French Toast Bread,Pepperidge Farm,2.98,9
+Applewood Smoked Bacon Pork Lion Filet,Smithfield,8.97,16
+Classic White bread,Wonder,1.98,0
+Milk and Cookies Ice Cream,Ben & Jerry's,4.28,22
+Peach Juice,Simply,1.34,12
+Dutch Chocolate Milk,Borden,3.28,24
+Americone Dreeam Ice Cream, Ben & Jerry's,4.28,34
+Cran-Mango Juice Drink,Ocean Spray,3.98,41
+Birthday Cake Ice Cream Cups,Blue Bell,6.47,0
